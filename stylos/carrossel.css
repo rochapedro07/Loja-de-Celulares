@@ -1,0 +1,43 @@
+
+
+.carrossel__titulo{
+    color:black;
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight:700 ;
+    padding: 1em 0 0.5em 0;
+   
+    
+    
+}
+.swiper-slide img{
+    width: 40%;
+    height: 120PX;
+    position: relative;
+    
+    
+}
+.swiper-button-prev,.swiper-button-next{
+  display: none;
+ text-decoration: none;
+  
+}
+.swiper-slide{
+  text-align: center;
+
+  
+}
+.swiper-wrapper{
+  height: 200PX;
+  position: relative;
+
+}
+.swiper{
+  height: 200px;
+  position: relative;
+}
+a {
+  color: blue;
+}

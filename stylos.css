@@ -1,0 +1,20 @@
+@import url("stylos/header.css");
+@import url("stylos/banner.css");
+@import url("stylos/carrossel.css");
+
+
+:root{
+    --primeira-cor:#ebecce;
+    --branco:#ffffff;
+    --laranja:#eb9b00;
+    --azul-degrader:#000080;
+    --preto:black;
+    --primeira-font:'poppins';
+
+}
+body{
+    background-color: var(--primeira-cor);
+    font-family: var(--primeira-font);
+    font-size: 16px;
+    font-weight: 400;
+}
